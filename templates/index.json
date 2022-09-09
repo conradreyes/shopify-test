@@ -84,27 +84,28 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "swords"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "gods-reincarnated-son",
             "second_image": false
           }
         },
-        "collection-1": {
-          "type": "collection",
+        "6f776ed1-1023-4105-a95d-744af8aae0b6": {
+          "type": "product",
           "settings": {
-            "collection": ""
+            "product": "deserted-quickblade",
+            "second_image": false
           }
         }
       },
       "block_order": [
         "collection-0",
         "product",
-        "collection-1"
+        "6f776ed1-1023-4105-a95d-744af8aae0b6"
       ],
       "settings": {
         "heading": "Multimedia collage",
