@@ -1,8 +1,12 @@
 @font-face {
+    font-family: "Solander";
+    src: url("SolanderDemo-1GZ6B.ttf") format("truetype");
+}
+@font-face {
     font-family: "Strandall";
     src: url("StrandallDemo-nRXJ0.ttf") format("truetype");
 }
 :root {
+    --font-heading-family: "Solander", sans-serif;
     --font-body-family: "Strandall", sans-serif;
-    --font-heading-family: "Strandall", sans-serif;
 }
