@@ -84,30 +84,31 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "swords"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "gods-reincarnated-son",
             "second_image": false
           }
         },
-        "collection-1": {
-          "type": "collection",
+        "6f776ed1-1023-4105-a95d-744af8aae0b6": {
+          "type": "product",
           "settings": {
-            "collection": ""
+            "product": "deserted-quickblade",
+            "second_image": false
           }
         }
       },
       "block_order": [
         "collection-0",
         "product",
-        "collection-1"
+        "6f776ed1-1023-4105-a95d-744af8aae0b6"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "Feast your eyes",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
@@ -120,9 +121,10 @@
     "video": {
       "type": "video",
       "settings": {
-        "heading": "",
+        "heading": "Sword Fight",
         "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify:\/\/shop_images\/3797582.webp",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=fXcDx-FsajY",
         "description": "",
         "full_width": false,
         "color_scheme": "background-1",
